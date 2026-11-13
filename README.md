@@ -8,12 +8,12 @@
   <img src="https://github.com/user-attachments/assets/b7f13360-00a7-4011-a2bd-674f87f75a6e" width="550" />
 </p>
 
-<!-- 3. La nueva imagen a la izquierda y Discord más grande al lado -->
+<!-- 3. El nuevo GIF a la izquierda y Discord al lado -->
 <p align="center" style="margin: 15px 0;">
   
-  <!-- Columna izquierda: La imagen anterior -->
+  <!-- Columna izquierda: El GIF nuevo -->
   <span style="display: inline-block; vertical-align: top; margin-right: 20px; text-align: center;">
-    <img src="https://github.com/user-attachments/assets/96f25cba-3d29-4930-9a51-20a8a7871757" width="150" style="display: block;" />
+    <img src="https://github.com/user-attachments/assets/ca2076fd-77b5-4d5a-9d93-19a80ad682c6" width="160" style="display: block;" />
   </span>
 
   <!-- Columna derecha: Discord (310px) -->
@@ -37,7 +37,7 @@
   <img src="https://github.com/user-attachments/assets/be9f33e0-9ea0-4950-b47d-53e2abf6975f" width="220" style="display: block; margin: 0 auto;" />
 </p>
 
-<!-- 4. Bloque inferior: El mono y los dos sellos nuevos (en columna) al lado -->
+<!-- 4. Bloque inferior: El mono y los dos sellos al lado -->
 <p align="center" style="margin-top: 25px;">
   
   <!-- El mono a la izquierda -->
@@ -45,14 +45,15 @@
     <img src="https://github.com/user-attachments/assets/c059e61a-6639-4803-9cd7-fa721bf31b40" width="160" style="display: block;" />
   </span>
 
-  <!-- Columna de los dos sellos nuevos en vertical (uno encima de otro) -->
+  <!-- Columna de los dos sellos en vertical -->
   <span style="display: inline-block; vertical-align: middle; text-align: center;">
     <img src="https://github.com/user-attachments/assets/2aa8951d-549c-4360-8598-65c27c986d60" width="110" style="display: block; margin-bottom: 8px;" />
     <img src="https://github.com/user-attachments/assets/42ea9612-33b5-407f-88f6-ab48f63f594d" width="110" style="display: block;" />
   </span>
 
+</p>
+
+<!-- 5. La barra de sangre abajo del todo -->
 <p align="center" style="margin-top: 25px;">
   <img src="https://github.com/user-attachments/assets/57a586b8-bb5b-4781-a4e1-787c687cbe4e" width="600" style="display: inline-block;" />
 </p>
-
-
